@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Rex Quiz</string>
+    <string name="check_the_boxes_that_have_the_names_of_android_versions">1. Check the boxes that have the names of Android versions.</string>
+    <string name="kitkat">Kitkat</string>
+    <string name="gingerbread">GingerBread</string>
+    <string name="cupcake">Cupcake</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="_2_what_is_kotlin">2. What is Kotlin?</string>
+    <string name="a_programming_language">A programming Language</string>
+    <string name="headquaters_of_udacity">Headquarters of Udacity</string>
+    <string name="a_smartphone">A Smartphone</string>
+    <string name="_3_alphabet_is_the_name_of_google_parent_company_n_true_or_false">3. Alphabet is the name of google parent company? \n True or False?</string>
+    <string name="_4_what_is_the_first_smart_phone_to_work_on_android_platform">4. What is the first Smart phone to work on Android platform?</string>
+    <string name="nexus">Nexus</string>
+    <string name="samsung">Samsung</string>
+    <string name="htc_dream">HTC Dream</string>
+    <string name="_5_who_designed_android_s_logo_enter_the_full_name_below">5. Who designed Android\'s Logo? Enter the full name below.</string>
+    <string name="e_g_larry_page">E.g. Larry Page</string>
+    <string name="submit">Submit</string>
+    <string name="irina_blok">Irina Blok</string>
+    <string name="truee">True</string>
+</resources>
